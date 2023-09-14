@@ -1,4 +1,4 @@
-👋 Hey there! I'm Kundan, a passionate developer with 1.5 years of experience specializing in React Native, React.js, and Next.js. 🚀
+👋 Hey there! I'm Kundan, a passionate developer specializing in React Native, React.js, and Next.js. 🚀
 
 🛠️ I thrive on building projects from scratch and turning ideas into reality. My journey has been filled with exciting challenges and successful completions.
 
