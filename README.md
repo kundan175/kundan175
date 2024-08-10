@@ -3,6 +3,7 @@
 Hi there! I’m an experienced Full Stack Developer with expertise in React, React Native, Next.js, Node.js, and TypeScript. My passion lies in creating dynamic, high-performance applications that deliver an outstanding user experience. Let’s join forces to bring your innovative ideas to life! 🌟
 
 Skills Snapshot:
+
 **🌐 Frontend:** Mastery in React, React Native, and Next.js for building seamless, engaging user interfaces.
 **🔧 Backend:** Proficient in Node.js and Express.js to craft robust, scalable server-side solutions.
 **🗃️ Databases:** Skilled in MongoDB for efficient data management and storage.
