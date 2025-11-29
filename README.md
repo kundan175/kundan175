@@ -15,5 +15,3 @@ Hi there! I’m an experienced Full Stack Developer specializing in **React**, *
 - **Rapid Delivery:** Fast project turnarounds without compromising quality.
 - **Innovative Solutions:** Leveraging the latest tech for future-ready projects.
 - **Collaborative Approach:** Great communication for smooth development.
-
-📞 **Let’s connect** and turn your vision into reality!
