@@ -1,4 +1,4 @@
-# 🔥 Full Stack Developer | 🖥️ Frontend | ⚙️ Backend | 📱 Mobile Apps
+# Full Stack Developer | 🖥️ Frontend | ⚙️ Backend | 📱 Mobile Apps
 
 Hi there! I’m an experienced Full Stack Developer specializing in **React**, **React Native**, **Next.js**, **Node.js**, and **TypeScript**. I’m passionate about building dynamic, high-performance applications that deliver outstanding user experiences. Let’s bring your ideas to life! 🌟
 
