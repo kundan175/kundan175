@@ -62,20 +62,4 @@ graph LR
 | **Analytics Dashboard** | Processed TBs of data for enterprise reporting with interactive visualizations. | React, D3.js, AWS |
 
 ---
-
-## 📈 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-
-[Website](YOUR_WEBSITE) • [LinkedIn](YOUR_LINKEDIN) • [Twitter](YOUR_TWITTER)
-
-<sub><i>"Simplicity is the soul of efficiency."</i></sub>
-
 </div>
