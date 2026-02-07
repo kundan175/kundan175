@@ -53,13 +53,4 @@ graph LR
 
 ---
 
-## 🌟 Featured Work
-
-| Project | Impact | Tech |
-| :--- | :--- | :--- |
-| **E-Commerce Engine** | Scaled to 10k+ daily active users with sub-100ms API response times. | Next.js, Redis, stripe |
-| **Mobile Social App** | Real-time chat & notifications for 50k+ users; 4.8/5 app store rating. | React Native, Socket.io |
-| **Analytics Dashboard** | Processed TBs of data for enterprise reporting with interactive visualizations. | React, D3.js, AWS |
-
----
 </div>
