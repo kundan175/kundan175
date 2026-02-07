@@ -21,7 +21,7 @@ I specialize in building scalable, high-performance web and mobile applications 
 
 ---
 
-## � Development Workflow
+## 🧩 Development Workflow
 
 ```mermaid
 graph LR
