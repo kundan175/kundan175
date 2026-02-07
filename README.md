@@ -17,7 +17,7 @@ I specialize in building scalable, high-performance web and mobile applications 
 - 🔭 Currently scaling systems with **Next.js & Microservices**
 - 🌱 Deep diving into **Rust & Advanced System Design**
 - 💬 Ask me about **Full Stack Architecture & React Native**
-- 📫 Connect with me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Connect with me: [https://www.itcodehub.in/#contact](https://www.itcodehub.in/#contact)
 
 ---
 
